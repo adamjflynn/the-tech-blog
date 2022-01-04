@@ -1,6 +1,6 @@
 const router = require('express').Router();
 const { Comment } = require('../../models');
-const withAuth = require('../../utils');
+const withAuth = require('../../utils/auth');
 
 
 // GET all comments
@@ -48,6 +48,5 @@ router.delete('/:id', withAuth, (req, res) => {
         res.status(500).json(err);
     });
 });
-
 
 module.exports = router;
