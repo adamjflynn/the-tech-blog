@@ -1,19 +1,19 @@
+{{! login page layout }}
 <form class="login-form">
-  <div>
-    <label for="email-login">Email:</label>
-    <input type="text" id="email-login" />
-  </div>
-  <div>
-    <label for="password-login">Password:</label>
-    <input type="password" id="password-login" />
-  </div>
-  <div>
-    <button type="submit">Login</button>
-  </div>
+	<div>
+		<label for="username-login">Username:</label>
+		<input type="text" id="username-login" />
+	</div>
+	<div>
+		<label for="password-login">Password:</label>
+		<input type="password" id="password-login" />
+	</div>
+	<div>
+		<button type="submit" class="button">Login</button>
+	</div>
+	<div>
+		<span>Not a member? <a href="/signup/"> Sign Up</a></span>
+	</div>
 </form>
 
-<div class ="sign-up">
-      Not a member? <a href="/signup">Sign Up now!</a>
-  </div>
-
-<script src="/javascript/login.js"></script>
+<script src="../public/javascript/login.js"></script>
