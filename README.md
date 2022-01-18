@@ -29,7 +29,7 @@
   
   Create an account to post your own content and interact with other users posts.  
   
-  ![Screenshot of Application]("https://github.com/adamjflynn/the-tech-blog/blob/main/public/Challenge_14.JPG")
+  ![Screenshot of Application]("![image](https://user-images.githubusercontent.com/87862136/149861634-783c7028-a978-4951-97c3-84a7c0e11fe0.png)")
   
   ## Tests
   
