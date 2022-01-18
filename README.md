@@ -29,7 +29,7 @@
   
   Create an account to post your own content and interact with other users posts.  
   
-  ![Screenshot of Application](C:\Users\Adam\OneDrive\Desktop\coding\projects\Challenge_14\tech-blog\the-tech-blog\public\Challenge_14.JPG)
+  ![Screenshot of Application](https://github.com/adamjflynn/the-tech-blog/blob/main/public/Challenge_14.JPG?raw=true)
   
   ## Tests
   
