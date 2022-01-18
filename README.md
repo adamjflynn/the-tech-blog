@@ -4,12 +4,12 @@
   a CMS-style blog site, where developers can publish their blog posts and comment on other developers’ posts as well.
   
   ## Table of Contents
+  
   * [Installation](#installation)
   * [Usage](#usage)
-  * [License](#license)
-  * [Contributing](#contributing)
   * [Tests](#tests)
   * [GitHub](#github)
+  
   ## Installation
   
   Required dependancies:
@@ -27,14 +27,16 @@
   
   ## Usage
   
-  Create and account to post your own content and interact with other users posts.  
-  ![Screenshot of Application]("")
+  Create an account to post your own content and interact with other users posts.  
   
-  ## Contributing
-  N/A  
+  ![Screenshot of Application]("https://github.com/adamjflynn/the-tech-blog/blob/main/public/Challenge_14.JPG")
+  
   ## Tests
-  undefined
+  
+  Test the application at https://the-tech-blog-af.herokuapp.com/
+  
   ## Questions
+  
   Reach out via email or GitHub.  
   adamflynn1@gmail.com  
   [https://github.com/adamjflynn/the-tech-blog](https://github.com/https://github.com/adamjflynn/the-tech-blog/)
