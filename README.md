@@ -28,8 +28,7 @@
   ## Usage
   
   Create an account to post your own content and interact with other users posts.  
-  
-  ![Screenshot of Application](https://github.com/adamjflynn/the-tech-blog/blob/main/public/Challenge_14.JPG?raw=true)
+
   
   ## Tests
   
